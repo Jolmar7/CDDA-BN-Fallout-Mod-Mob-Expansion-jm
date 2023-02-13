@@ -1,0 +1,115 @@
+[
+    {
+        "id": "FO_NATGUARDH_1_1",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_NATGUARDH_B_1",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_NATGUARDH_1_roof_1",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot roof",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NATGUARDH_1_2",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_NATGUARDH_B_2",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_NATGUARDH_1_roof_2",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot roof",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NATGUARDH_1_3",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_NATGUARDH_B_3",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_NATGUARDH_1_roof_3",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot roof",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NATGUARDH_1_4",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_NATGUARDH_B_4",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_NATGUARDH_1_roof_4",
+        "type": "overmap_terrain",
+        "name": "National Guard Army Depot roof",
+        "sym": "N",
+        "color": "brown_green",
+        "see_cost": 2
+    }
+        
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "FO_GHOUL_MILBASE_1",
+        "type": "overmap_terrain",
+        "name": "Ghoul Militant Base",
+        "sym": "G",
+        "color": "brown_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_GHOUL_MILBASE_1_roof",
+        "type": "overmap_terrain",
+        "name": "Ghoul Militant Base roof",
+        "sym": "G",
+        "color": "brown_white",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_GHOUL_MILBASE_2",
+        "type": "overmap_terrain",
+        "name": "Ghoul Militant Base",
+        "sym": "G",
+        "color": "brown_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_GHOUL_MILBASE_3",
+        "type": "overmap_terrain",
+        "name": "Ghoul Militant Base",
+        "sym": "G",
+        "color": "brown_white",
+        "see_cost": 10,
+        "mondensity": 2
+    }
+        
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "type": "city_building",
+        "id": "FO_ROBREPAIR_1","overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "FO_ROBREPAIR_1_north" }, { "point": [ 0, 0, 1 ], "overmap": "FO_ROBREPAIR_1_roof_north" }, { "point": [ 1, 0, 0 ], "overmap": "FO_ROBREPAIR_2_north" }, { "point": [ 1, 0, 1 ], "overmap": "FO_ROBREPAIR_2_roof_north" } ],
+        "locations": [ "land" ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": "FO_QST_RIVALHOUSE_1",
+        "type": "overmap_terrain",
+        "name": "Rival Gang Safehouse",
+        "sym": "S",
+        "color": "red_yellow",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_QST_RIVALHOUSE_2",
+        "type": "overmap_terrain",
+        "name": "Rival Gang Safehouse",
+        "sym": "S",
+        "color": "red_yellow",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_QST_RIVALHOUSE_1_roof",
+        "type": "overmap_terrain",
+        "name": "Rival Gang Safehouse roof",
+        "sym": "S",
+        "color": "red_yellow",
+        "see_cost": 2
+    }
+        
+]

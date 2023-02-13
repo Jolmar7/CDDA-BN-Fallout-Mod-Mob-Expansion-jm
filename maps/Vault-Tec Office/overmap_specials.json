@@ -1,0 +1,7 @@
+[
+    {
+        "type": "city_building",
+        "id": "FO_VAULTOFFICE_1","overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "FO_VAULTOFFICE_1_south" }, { "point": [ 0, 0, 1 ], "overmap": "FO_VAULTOFFICE_2_south" }, { "point": [ 0, 0, 2 ], "overmap": "FO_VAULTOFFICE_2_roof_south" } ],
+        "locations": [ "land" ]
+    }
+]

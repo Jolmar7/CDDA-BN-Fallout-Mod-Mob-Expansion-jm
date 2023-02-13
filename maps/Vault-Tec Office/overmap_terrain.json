@@ -1,0 +1,31 @@
+[
+    {
+        "id": "FO_VAULTOFFICE_1",
+        "type": "overmap_terrain",
+        "name": "Vault-Tec Office",
+        "sym": "V",
+        "color": "yellow_cyan",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_VAULTOFFICE_2",
+        "type": "overmap_terrain",
+        "name": "Vault-Tec Office",
+        "sym": "V",
+        "color": "yellow_cyan",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_VAULTOFFICE_2_roof",
+        "type": "overmap_terrain",
+        "name": "Vault-Tec Office roof",
+        "sym": "V",
+        "color": "yellow_cyan",
+        "see_cost": 2
+    }
+        
+]

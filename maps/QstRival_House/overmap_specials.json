@@ -1,0 +1,9 @@
+[
+    {
+        "type": "overmap_special",
+        "id": "Rival Gang Safehouse",
+        "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "FO_QST_RIVALHOUSE_1_north" }, { "point": [ 0, 0, 1 ], "overmap": "FO_QST_RIVALHOUSE_1_roof_north" }, { "point": [ 0, 0, -1 ], "overmap": "FO_QST_RIVALHOUSE_2_north" } ],
+        "locations": [ "land" ],
+        "occurrences": [ 0, 0 ]
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "type": "city_building",
+        "id": "FO_S_RADKING1","overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "FO_S_RADKING1_north" }, { "point": [ 0, 0, 1 ], "overmap": "FO_S_RADKING1_2_north" }, { "point": [ 0, 0, 2 ], "overmap": "FO_S_RADKING1_ROOF_north" } ],
+        "spawns": { "group": "GROUP_MUTANT_PATROL", "population": [ 900, 1200 ], "radius": [ 6, 13 ] },
+        "locations": [ "land" ]
+    }
+]

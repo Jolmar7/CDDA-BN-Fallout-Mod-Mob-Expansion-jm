@@ -1,0 +1,39 @@
+[
+    {
+        "id": "FO_ROBREPAIR_1",
+        "type": "overmap_terrain",
+        "name": "Robot Repair Facility",
+        "sym": "R",
+        "color": "black_white",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_ROBREPAIR_1_roof",
+        "type": "overmap_terrain",
+        "name": "Robot Repair Facility roof",
+        "sym": "R",
+        "color": "black_white",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_ROBREPAIR_2",
+        "type": "overmap_terrain",
+        "name": "Robot Repair Facility",
+        "sym": "R",
+        "color": "black_white",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_ROBREPAIR_2_roof",
+        "type": "overmap_terrain",
+        "name": "Robot Repair Facility roof",
+        "sym": "R",
+        "color": "black_white",
+        "see_cost": 2
+    }
+        
+]

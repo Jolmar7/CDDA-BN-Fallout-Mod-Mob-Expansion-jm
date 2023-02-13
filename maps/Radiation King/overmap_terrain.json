@@ -1,0 +1,30 @@
+[
+    {
+        "id": "FO_S_RADKING1",
+        "type": "overmap_terrain",
+        "name": "radiation king store",
+        "sym": "R",
+        "color": "yellow_white",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_S_RADKING1_2",
+        "type": "overmap_terrain",
+        "name": "radiation king store",
+        "sym": "R",
+        "color": "yellow_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_S_RADKING1_ROOF",
+        "type": "overmap_terrain",
+        "name": "radiation king store roof",
+        "sym": "R",
+        "color": "yellow_white",
+        "see_cost": 2
+    }
+        
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "region_overlay",
+        "regions": [ "all" ],
+        "city": {
+            "shops": {
+                "FO_NATGUARDH_1": 1000
+            }
+        }
+    }
+]
+        

@@ -1,0 +1,20 @@
+[
+    {
+        "type": "city_building",
+        "id": "FO_NATGUARDH_1","overmaps": [
+            { "point": [ 1, 0, 0 ], "overmap": "FO_NATGUARDH_1_1_north" }, 
+            { "point": [ 1, 0, -2 ], "overmap": "FO_NATGUARDH_B_1_north" }, 
+            { "point": [ 1, 0, 1 ], "overmap": "FO_NATGUARDH_1_roof_1_north" },
+            { "point": [ 0, 0, 0 ], "overmap": "FO_NATGUARDH_1_2_north" }, 
+            { "point": [ 0, 0, -2 ], "overmap": "FO_NATGUARDH_B_2_north" }, 
+            { "point": [ 0, 0, 1 ], "overmap": "FO_NATGUARDH_1_roof_2_north" },
+            { "point": [ 0, 1, 0 ], "overmap": "FO_NATGUARDH_1_3_north" }, 
+            { "point": [ 0, 1, -2 ], "overmap": "FO_NATGUARDH_B_3_north" }, 
+            { "point": [ 0, 1, 1 ], "overmap": "FO_NATGUARDH_1_roof_3_north" },
+            { "point": [ 1, 1, 0 ], "overmap": "FO_NATGUARDH_1_4_north" }, 
+            { "point": [ 1, 1, -2 ], "overmap": "FO_NATGUARDH_B_4_north" }, 
+            { "point": [ 1, 1, 1 ], "overmap": "FO_NATGUARDH_1_roof_4_north" }
+        ],
+        "locations": [ "land" ]
+    }
+]
