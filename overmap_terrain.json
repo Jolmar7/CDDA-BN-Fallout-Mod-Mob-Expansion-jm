@@ -1,0 +1,237 @@
+[
+    {
+        "id": "FO_NUKAPLANT_1_1",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_2_1",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_roof_1",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant roof",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_2",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_2_2",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_roof_2",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant roof",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_3",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_2_3",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_roof_3",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant roof",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_4",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_2_4",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_roof_4",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant roof",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_5",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_2_5",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_roof_5",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant roof",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_6",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_2_6",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_roof_6",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant roof",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_7",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_2_7",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_roof_7",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant roof",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_8",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_2_8",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_roof_8",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant roof",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_9",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_2_9",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_NUKAPLANT_1_roof_9",
+        "type": "overmap_terrain",
+        "name": "Nuka Cola Plant roof",
+        "sym": "N",
+        "color": "red_white",
+        "see_cost": 2
+    }
+
+]
