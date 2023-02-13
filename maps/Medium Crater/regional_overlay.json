@@ -1,0 +1,12 @@
+[
+    {
+        "type": "region_overlay",
+        "regions": [ "all" ],
+        "city": {
+            "houses": {
+                "FO_MEDCRATER_1": 165
+            }
+        }
+    }
+]
+        

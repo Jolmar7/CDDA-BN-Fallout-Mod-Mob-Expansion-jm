@@ -1,0 +1,77 @@
+[
+    {
+        "type": "mapgen",
+        "method": "json",
+        "weight": 1000,
+        "om_terrain": [ 
+            [ "FO_MEDCRATER_1_2", "FO_MEDCRATER_1_1" ],
+            [ "FO_MEDCRATER_1_3", "FO_MEDCRATER_1_4" ]
+        ],
+        "object": {
+            "fill_ter": "t_floor",
+            "rows": [
+                
+                "ddd,,,,,,,,,dddddddddddd,,,,,,,,,,d,,,,,,,,ddddd",
+                ",,,,,,,,,,ddd,,,,,,,,,,,ddd,,,,,,,,d,,,,,,d,,,,,",
+                ",,,,,ddddd,,,,,,,,,,RRRRRRRRRR,,,,,dddd,,,ddd,,,",
+                ",,,,dd,,,,,,,,,,RRRRRRRRRRRRRRRRRR,,,,,d,,,,,,d,",
+                ",,dd,,,,,,dddd,RRRRRRRrrrrrrrrrRRRRR,,,,dd,,,dd,",
+                ",,dd,,,,dddddRRRRRrrrrrrrrrrrrrrrRRRR,,,,d,,,d,,",
+                ",d,d,dddddddRRRrrrrrrrrrrrrrrrrrrrrRRRR,,,d,,,,,",
+                ",d,dddd,dddRRRrrrrrrrrrrrrrrrrrrrrrrrRRR,,,,,d,,",
+                ",ddd,d,ddRRRrrrrrrrrrrrrrrrrrrrrrrrrrrRRR,,,,d,,",
+                ",,d,d,,dRRRrrrrrrrrrrDDDDDDrrrrrrrrrrrrRRR,,,d,,",
+                "d,dd,,ddRRrrrrrrrrrrDDDDDDDDDDrrrrrrrrrrRRR,,d,,",
+                "dddddddRRRrrrrrrrrrrDDDDDDDDDDDrrrrrrrrrrRR,,d,,",
+                ",d,ddddRRrrrrrrrrrrDDDDDDDDDDDDDrrrrrrrrrrRR,d,,",
+                ",d,d,dRRRrrrrrrrrrrDDDDDDDDDDDDDDrrrrrrrrrRR,d,,",
+                "d,dd,dRRrrrrrrrrrrrDDDDDDDDDDDDDrrrrrrrrrrrRRd,,",
+                ",,d,,RRRrrrrrrrrrrDDDDDDDDDDDDDDrrrrrrrrrrrRRd,,",
+                "ddd,RRRrrrrrrrrrrrDDDDDDDDDDDDDDDrrrrrrrrrrRRdd,",
+                ",d,,RRRrrrrrrrrrrDDDDDDDDDDDDDDDDDrrrrrrrrrRR,d,",
+                ",d,,RRrrrrrrrrrrrDDDDDDDDDDDDDDDDDrrrrrrrrrRR,d,",
+                "d,,RRRrrrrrrrrrrrDDDDDDDDDDDDDDDDDrrrrrrrrrRRRd,",
+                "d,,RRRrrrrrrrrrrrrDDDDDDDDDDDDDDDDDDrrrrrrrrRRdd",
+                "d,,RRrrrrrrrrrrrrrDDDDDDDDDDDDDDDDDDrrrrrrrrRR,d",
+                "d,RRRrrrrrrrrrrrrrDDDDDDDDDDDDDDDDDDDrrrrrrrRR,d",
+                "d,RRRrrrrrrrrrrrrrDDDDDDDDDDDDDDDDDDDDrrrrrrRRR,",
+                "d,RRRrrrrrrrrrrrrrDDDDDDDDDDDDDDDDDDDDrrrrrrrRR,",
+                ",dRRRrrrrrrrrrrrrrDDDDDDDDDDDDDDDDDDDrrrrrrrrRR,",
+                ",d,RRrrrrrrrrrrrrDDDDDDDDDDDDDDDDDDDrrrrrrrrrRRd",
+                ",d,RRrrrrrrrrrrrrDDDDDDDDDDDDDDDDrrrrrrrrrrrrRRd",
+                ",d,RRRrrrrrrrrrrrDDDDDDDDDDDDDDDrrrrrrrrrrrrrRRd",
+                ",d,,RRrrrrrrrrrrrDDDDDDDDrrrrDDDrrrrrrrrrrrrRR,d",
+                ",d,,RRrrrrrrrrrrrrDDDDDDrrrrrrrrrrrrrrrrrrrrRRdd",
+                ",dd,RRRrrrrrrrrrrrDDDrrrrrrrrrrrrrrrrrrrrrrRRRd,",
+                ",,d,,RRRrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrRRRdd,",
+                ",,dd,RRRRrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrRRRRd,,",
+                ",,ddddRRRRrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrRRRRdd,,",
+                ",,,ddddRRRRrrrrrrrrrrrrrrrrrrrrrrrrrrrrRRR,,d,,,",
+                ",,,,ddddRRRrrrrrrrrrrrrrrrrrrrrrrrrrrrRRRdddd,,,",
+                ",,,,,,,ddRRRrrrrrrrrrrrrrrrrrrrrrrrrrRRRdddddd,,",
+                ",,,dd,,,ddRRRRrrrrrrrrrrrrrrrrrrrrrrRRRdddd,dd,,",
+                ",,,,dd,,,ddRRRRRrrrrrrrrrrrrrrrrrrrRRR,ddd,dd,,,",
+                ",,,,,ddd,,ddRRRRRRRRRRrrrrrrrrrRRRRRR,dddddd,,,,",
+                ",,,,,,ddd,,dddRRRRRRRRRRRrrrrrRRRRR,dddddd,,,d,,",
+                ",,,,,,dd,ddddddd,RRRRRRRRRRRRRRRR,ddd,,dd,,,dd,,",
+                ",,,,dd,,,,,,,,,,,,d,,,RRRRRRRRR,ddd,ddd,,,ddd,,,",
+                ",,dd,,,,dddddddddd,ddd,,,,,,,,,,,,,ddd,,,dd,,,,,",
+                ",,d,,,,,,,,,,d,ddddd,,,dd,dddddddd,,,,,ddd,,,dd,",
+                ",,dddddddd,ddd,,,,,,,,,,,dd,,,,,,,,,dddddd,dd,dd",
+                ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ddd,,,,,,dd"
+            ],
+        "palettes": [ "FO_MEDCRATER_PAL" ],
+        "place_monsters": [ { "monster": "DUMP_FEMAGHOUL", "x": [ 0, 23 ], "y": [ 0, 23 ], "density": 0.8 },
+        { "monster": "DUMP_FEMAGHOUL", "x": [ 24, 47 ], "y": [ 0, 23 ], "density": 0.8 },
+        { "monster": "DUMP_FEMAGHOUL", "x": [ 0, 23 ], "y": [ 24, 47 ], "density": 0.8 },
+        { "monster": "DUMP_FEMAGHOUL", "x": [ 24, 47 ], "y": [ 24, 47 ], "density": 0.8 } ],
+        "set": [
+            { "square": "radiation", "amount": 6, "x": 0, "y": 0, "x2": 23, "y2": 23 },
+            { "square": "radiation", "amount": 6, "x": 24, "y": 0, "x2": 47, "y2": 23 },
+            { "square": "radiation", "amount": 6, "x": 0, "y": 24, "x2": 23, "y2": 47 },
+            { "square": "radiation", "amount": 6, "x": 24, "y": 24, "x2": 47, "y2": 47 }
+            ],
+        "terrain": { ",": "t_region_groundcover" }
+        }
+    }
+]

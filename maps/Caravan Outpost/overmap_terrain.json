@@ -1,0 +1,56 @@
+[
+    {
+        "id": "FO_CARAVAN_OUTPOST_A",
+        "type": "overmap_terrain",
+        "name": "Caravan Outpost",
+        "sym": "%",
+        "color": "yellow_yellow",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_CARAVAN_OUTPOST_A_roof",
+        "type": "overmap_terrain",
+        "name": "Caravan Outpost roof",
+        "sym": "%",
+        "color": "yellow_yellow",
+        "see_cost": 2
+    },
+
+    {
+        "id": "FO_CARAVAN_OUTPOST_B",
+        "type": "overmap_terrain",
+        "name": "Caravan Outpost",
+        "sym": "%",
+        "color": "yellow_yellow",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_CARAVAN_OUTPOST_B_roof",
+        "type": "overmap_terrain",
+        "name": "Caravan Outpost roof",
+        "sym": "%",
+        "color": "yellow_yellow",
+        "see_cost": 2
+    },
+
+    {
+        "id": "FO_CARAVAN_OUTPOST_C",
+        "type": "overmap_terrain",
+        "name": "Caravan Outpost",
+        "sym": "%",
+        "color": "yellow_yellow",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_CARAVAN_OUTPOST_C_roof",
+        "type": "overmap_terrain",
+        "name": "Caravan Outpost roof",
+        "sym": "%",
+        "color": "yellow_yellow",
+        "see_cost": 2
+    }
+        
+]

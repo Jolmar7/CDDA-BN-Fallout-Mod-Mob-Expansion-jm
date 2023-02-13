@@ -1,0 +1,20 @@
+[
+    {
+        "id": "FO_DOCQUEST_HOUSE_1",
+        "type": "overmap_terrain",
+        "name": "Isolated House",
+        "sym": "H",
+        "color": "brown_white",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "FO_DOCQUEST_HOUSE_1_roof",
+        "type": "overmap_terrain",
+        "name": "Isolated House roof",
+        "sym": "H",
+        "color": "brown_white",
+        "see_cost": 2
+    }
+        
+]

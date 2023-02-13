@@ -1,0 +1,26 @@
+[
+    {
+        "type": "overmap_special",
+        "id": "First Caravan Outpost",
+        "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "FO_CARAVAN_OUTPOST_A_north" }, { "point": [ 0, 0, 1 ], "overmap": "FO_CARAVAN_OUTPOST_A_roof_north" } ],
+        "locations": [ "land" ],
+        "city_distance": [ 8, 30 ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Second Caravan Outpost",
+        "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "FO_CARAVAN_OUTPOST_B_north" }, { "point": [ 0, 0, 1 ], "overmap": "FO_CARAVAN_OUTPOST_B_roof_north" } ],
+        "locations": [ "land" ],
+        "city_distance": [ 8, 30 ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Third Caravan Outpost",
+        "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "FO_CARAVAN_OUTPOST_C_north" }, { "point": [ 0, 0, 1 ], "overmap": "FO_CARAVAN_OUTPOST_C_roof_north" } ],
+        "locations": [ "land" ],
+        "city_distance": [ 8, 30 ],
+        "occurrences": [ 0, 0 ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "id": "FO_MEDCRATER_1_1",
+        "type": "overmap_terrain",
+        "name": "Crater",
+        "sym": "O",
+        "color": "red_yellow",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_MEDCRATER_1_2",
+        "type": "overmap_terrain",
+        "name": "Crater",
+        "sym": "O",
+        "color": "red_yellow",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_MEDCRATER_1_3",
+        "type": "overmap_terrain",
+        "name": "Crater",
+        "sym": "O",
+        "color": "red_yellow",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "FO_MEDCRATER_1_4",
+        "type": "overmap_terrain",
+        "name": "Crater",
+        "sym": "O",
+        "color": "red_yellow",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    }
+        
+]

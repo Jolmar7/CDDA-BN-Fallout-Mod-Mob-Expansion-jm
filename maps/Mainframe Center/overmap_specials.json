@@ -1,0 +1,14 @@
+[
+    {
+        "type": "overmap_special",
+        "id": "Mainframe Center",
+        "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "FO_QST_MAINFRAME_1_north" },
+            { "point": [ 0, 0, 1 ], "overmap": "FO_QST_MAINFRAME_1_roof_north" }, 
+            { "point": [ 0, 0, -1 ], "overmap": "FO_QST_MAINFRAME_2_north" },
+            { "point": [ 0, 0, -2 ], "overmap": "FO_QST_MAINFRAME_3_north" },
+            { "point": [ 0, 0, -3 ], "overmap": "FO_QST_MAINFRAME_4_north" },
+            { "point": [ 0, 0, -4 ], "overmap": "FO_QST_MAINFRAME_5_north" } ],
+        "locations": [ "land" ],
+        "occurrences": [ 0, 0 ]
+    }
+]
