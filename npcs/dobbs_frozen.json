@@ -102,9 +102,7 @@
         "text": "Who are you, what happened to you?",
         "topic": "TALK_DOBBSOLDIER_INFOTOWN"
       },
-      {
-        "text": "Do you want to come with me? I can be your squad now.", "topic": "TALK_DOBBSOLDIER_RECRUIT"
-      },
+      { "text": "Want to travel with me?", "topic": "TALK_SUGGEST_FOLLOW", "condition": { "not": "npc_following" } },
       {
         "text": "See you later.",
         "topic": "TALK_DONE"
@@ -123,17 +121,6 @@
         "text": "Got it.",
         "topic": "TALK_DOBBSOLDIER_START"
       }
-    ]
-  },
-  {
-    "id": "TALK_DOBBSOLDIER_RECRUIT",
-    "type": "talk_topic",
-    "dynamic_line": {
-      "u_female": true,
-      "yes": "I am ready to rejoin my squad!",
-      "no": "I am ready to rejoin my squad!"},
-    "responses": [
-      { "text": "Want to travel with me?", "topic": "TALK_SUGGEST_FOLLOW", "condition": { "not": "npc_following" } }
     ]
   }
 ]
